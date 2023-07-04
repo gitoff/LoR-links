@@ -1,7 +1,9 @@
 # LoR-links
 Legends of Runeterra Resources Links
-MR = Mastering Runeterra
-PoC = Path of Champions
+
+### Abbreviations
+- MR = Mastering Runeterra
+- PoC = Path of Champions
 
 ## Deck Trackers
 - [LoR Master Tracker](https://lormaster.com/)
